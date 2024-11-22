@@ -1,0 +1,55 @@
+
+[
+      {
+        "question": "What is the output of print(2 + 3 * 4)?",
+        "options": ["14", "20", "12", "24"],
+        "correct_answer": "14"
+      },
+      {
+        "question": "Which of the following is the correct way to declare a variable in Python?",
+        "options": ["int x = 5", "x = 5", "var x = 5", "5 = x"],
+        "correct_answer": "x = 5"
+      },
+      {
+        "question": "Which of the following is not a valid Python data type?",
+        "options": ["int", "str", "bool", "character"],
+        "correct_answer": "character"
+      },
+      {
+        "question": "What will be the output of the following code?\n\nx = [1, 2, 3]\ny = x\nx.append(4)\nprint(y)",
+        "options": ["[1, 2, 3]", "[1, 2, 3, 4]", "Error", "[4, 1, 2, 3]"],
+        "correct_answer": "[1, 2, 3, 4]"
+      },
+      {
+        "question": "How do you create a function in Python?",
+        "options": ["function myFunc():", "def myFunc():", "func myFunc():", "create myFunc():"],
+        "correct_answer": "def myFunc():"
+      },
+      {
+        "question": "Which keyword is used to define a class in Python?",
+        "options": ["class", "def", "function", "object"],
+        "correct_answer": "class"
+      },
+      {
+        "question": "Which of the following is the correct way to write a comment in Python?",
+        "options": ["// This is a comment", "# This is a comment", "/* This is a comment */", "<!-- This is a comment -->"],
+        "correct_answer": "# This is a comment"
+      },
+      {
+        "question": "What is the purpose of the 'self' keyword in Python classes?",
+        "options": ["To refer to the instance of the class", "To refer to a function", "To define a variable", "To define a method"],
+        "correct_answer": "To refer to the instance of the class"
+      },
+      {
+        "question": "What does the range function do in Python?",
+        "options": ["Generates a list", "Generates a tuple", "Generates a sequence of numbers", "Generates an error"],
+        "correct_answer": "Generates a sequence of numbers"
+      },
+      {
+        "question": "Which of the following statements is used to exit a loop in Python?",
+        "options": ["exit", "break", "return", "stop"],
+        "correct_answer": "break"
+      }
+]
+
+  
